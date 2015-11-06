@@ -28,7 +28,8 @@ s.homepage = "https://github.com/fonixland/RWPickFlavor"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/fonixland/RWPickFlavor.git", :tag => "#{s.version}"}
+#s.source = { :git => "https://github.com/fonixland/RWPickFlavor.git", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/fonixland/RWPickFlavor.git"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
