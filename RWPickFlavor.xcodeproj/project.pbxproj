@@ -86,12 +86,6 @@
 		A4E1262F1BED0C19002E1AD8 = {
 			isa = PBXGroup;
 			children = (
-				A4FB2CA31BED0FF5003CE687 /* Categories */,
-				A4FB2CA41BED0FFE003CE687 /* Controllers */,
-				A4FB2CA51BED1007003CE687 /* Factories */,
-				A4FB2CA61BED1014003CE687 /* Models */,
-				A4FB2CA71BED101A003CE687 /* Views */,
-				A4FB2CBE1BED1753003CE687 /* Resources */,
 				A4E1263B1BED0C19002E1AD8 /* RWPickFlavor */,
 				A4E126471BED0C19002E1AD8 /* RWPickFlavorTests */,
 				A4E1263A1BED0C19002E1AD8 /* Products */,
@@ -112,6 +106,12 @@
 		A4E1263B1BED0C19002E1AD8 /* RWPickFlavor */ = {
 			isa = PBXGroup;
 			children = (
+				A4FB2CA31BED0FF5003CE687 /* Categories */,
+				A4FB2CA41BED0FFE003CE687 /* Controllers */,
+				A4FB2CA51BED1007003CE687 /* Factories */,
+				A4FB2CA61BED1014003CE687 /* Models */,
+				A4FB2CA71BED101A003CE687 /* Views */,
+				A4FB2CBE1BED1753003CE687 /* Resources */,
 				A4E1263C1BED0C19002E1AD8 /* RWPickFlavor.h */,
 				A4E1263E1BED0C19002E1AD8 /* Info.plist */,
 			);
@@ -133,6 +133,7 @@
 				A4FB2CAA1BED1611003CE687 /* RGBAColorFromString.swift */,
 			);
 			name = Categories;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		A4FB2CA41BED0FFE003CE687 /* Controllers */ = {
@@ -142,6 +143,7 @@
 				A4FB2CAD1BED1627003CE687 /* PickFlavorViewController.swift */,
 			);
 			name = Controllers;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		A4FB2CA51BED1007003CE687 /* Factories */ = {
@@ -150,6 +152,7 @@
 				A4FB2CB01BED162E003CE687 /* FlavorFactory.swift */,
 			);
 			name = Factories;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		A4FB2CA61BED1014003CE687 /* Models */ = {
@@ -158,6 +161,7 @@
 				A4FB2CB21BED1634003CE687 /* Flavor.swift */,
 			);
 			name = Models;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		A4FB2CA71BED101A003CE687 /* Views */ = {
@@ -167,6 +171,7 @@
 				A4FB2CA91BED1028003CE687 /* Storyboards & Nibs */,
 			);
 			name = Views;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		A4FB2CA81BED1021003CE687 /* Ice Cream */ = {
@@ -193,6 +198,7 @@
 				A4FB2CBF1BED1797003CE687 /* background.jpg */,
 			);
 			name = Resources;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		AEEE6683742B820D471734DA /* Pods */ = {
