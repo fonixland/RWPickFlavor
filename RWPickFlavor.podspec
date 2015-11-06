@@ -14,21 +14,21 @@ s.version = "0.1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "[Bill Weakley]" => "[bweakley@bottomline.com]" }
+s.author = { "Bill Weakley" => "bweakley@bottomline.com" }
 
 # For example,
 # s.author = { "Joshua Greene" => "jrg.developer@gmail.com" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-s.homepage = "[https://github.com/fonixland/RWPickFlavor]"
+s.homepage = "https://github.com/fonixland/RWPickFlavor"
 
 # For example,
 # s.homepage = "https://github.com/JRG-Developer/RWPickFlavor"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "[https://github.com/fonixland/RWPickFlavor.git]", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/fonixland/RWPickFlavor.git", :tag => "#{s.version}"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
