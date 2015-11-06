@@ -8,7 +8,7 @@ s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "0.1.1"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -28,8 +28,7 @@ s.homepage = "https://github.com/fonixland/RWPickFlavor"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-#s.source = { :git => "https://github.com/fonixland/RWPickFlavor.git", :tag => "#{s.version}"}
-s.source = { :git => "https://github.com/fonixland/RWPickFlavor.git"}
+s.source = { :git => "https://github.com/fonixland/RWPickFlavor.git", :tag => "#{s.version}"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
